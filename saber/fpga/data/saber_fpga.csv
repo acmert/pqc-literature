@@ -17,3 +17,20 @@ He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-c
 He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Light,No,10.111,7.699,0,3,250,36,46,57,-,-,-
 He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Saber,No,10.111,7.699,0,3,250,49,63,79,-,-,-
 He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Fire,No,10.111,7.699,0,3,250,62,80,100,-,-,-
+Abdulgadir,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/abdulgadir-lightweight-implementation-gmu-pqc2021.pdf,Artix-7,Saber,No,"6,713","7,363",32,0,100,-,467.1,527.6,-,-,-
+Abdulgadir,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/abdulgadir-lightweight-implementation-gmu-pqc2021.pdf,Artix-7,Saber,Yes,"19,783","21,576",64,0,100,-,467.1,738.5,-,-,-
+Mera,2020,DAC,https://www.esat.kuleuven.be/cosic/publications/article-3163.pdf,Zynq-7000 (HW/SW),Saber,No,"7,400","7,331",28,2,125,"3,273","4,147","3,844",-,-,-
+Dang,2019,ICFPT,https://ieeexplore.ieee.org/document/8977901,UltraScale+ (HW/SW),Light,No,"12,343","11,288",256,3.5,322,-,53,56,-,-,-
+Dang,2019,ICFPT,https://ieeexplore.ieee.org/document/8977901,UltraScale+ (HW/SW),Saber,No,"12,566","11,619",256,3.5,322,-,60,65,-,-,-
+Dang,2019,ICFPT,https://ieeexplore.ieee.org/document/8977901,UltraScale+ (HW/SW),Fire,No,"12,555","11,881",256,3.5,322,-,74,80,-,-,-
+Tan,2021,arXiv,https://arxiv.org/pdf/2110.12127.pdf,Artix-7,Saber,No,"41,500","22,300",64,2,133,19.2,23.6,29.2,-,-,-
+Tan,2021,arXiv,https://arxiv.org/pdf/2110.12127.pdf,UltraScale+,Saber,No,"41,500","22,300",64,2,250,10.2,12.6,15.6,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Light,No,"23,557","14,190",0,1.5,370,4.3,-,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Saber,No,"20,496","13,939",0,1.5,370,7.3,-,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Fire,No,"19,752","14,358",0,1.5,370,13.2,-,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Light,No,"24,199","14,457",0,1.5,370,-,5.8,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Saber,No,"21,069","14,074",0,1.5,370,-,10.1,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Fire,No,"20,696","13,949",0,1.5,370,-,15.9,-,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Light,No,"24,655","14,879",0,1.5,370,-,-,7.6,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Saber,No,"21,342","14,233",0,1.5,370,-,-,12.7,-,-,-
+Dang,2021,IACR ePrint,https://eprint.iacr.org/2021/1508.pdf,UltraScale+,Fire,No,"20,868","14,237",0,1.5,370,-,-,19.3,-,-,-
