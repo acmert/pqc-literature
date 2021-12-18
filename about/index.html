@@ -1,70 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>NTT-SoK | About</title>
-    <meta name="author" content="Derek Eder">
-    <meta content="Display any CSV file as a searchable, filterable, pretty HTML table" />
+    <title>PQC Literature</title>
+    <meta name="author" content="Ahmet Can Mert">
+    <meta content="Literature survey for post-quantum cryptography implementations">
 
     <!-- Bootstrap core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/dataTables.bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+</head>
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
+<body>
     <div class="container-fluid">
-      <!--<div class="row">-->
-         <div class="col-lg-offset-2 col-lg-8">
-           
-          <h2 style="font-family:'Courier New', monospace;"><b>NTT-SoK</b></h2>
-      
-          <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+        <main class="row">
+            <div class="col">
+                
+                <h2 style="font-family:'Courier New', monospace;"><b>PQC Literature</b></h2>
+            
+                <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-          <p style="font-family:'Courier New', monospace;"><a href=/ntt-survey/>All Designs</a> &nbsp;&nbsp; <a href="/ntt-survey/hardware/">Hardware Designs</a> &nbsp;&nbsp; <a href="/ntt-survey/software/">Software Designs</a> &nbsp;&nbsp; <u><b><a href="/ntt-survey/about/">About</a></b></u></p>
+                <p style="font-family:'Courier New', monospace;"><u><a href="/pqc-literature/saber/">Saber</a></u> &nbsp; - &nbsp; <a href="/pqc-literature/kyber/">Kyber</a> &nbsp; - &nbsp; <a href="/pqc-literature/dilithium/">Dilithium</a> &nbsp; - &nbsp; <b><a href="/pqc-literature/about/">About</a></b></p>
 
-          <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+                <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-          <p>Information about work.</p>
-          
-          <p>List of contributors.</p>
-          
-          <p>Contact information for update/requests.</p>
+                <p>This work aims collecting and presenting the results for PQC implementations. If you would like to contribute, please contact me via email.</p>
+                  
+                <p>Ahmet Can Mert<br>
+                IAIK, TU Graz, Austria<br>
+                ahmet (dot) mert (at) iaik (dot) tugraz (dot) at</p>
 
-          <!--<div id='table-container'></div>-->
-           
-         </div>
-     <!--</div>-->
-
-    </div><!-- /.container -->
-
-    <footer class='footer'>
-      <div class='container-fluid'>
-        <div class="col-lg-offset-2 col-lg-8">
-          <!--<hr />-->
-          
-          <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-          
-          <p>
-          <span style="float: right">Theme <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></span>
-          <!--<span style="float: left">Last update: 2021/02/23</span>-->
-          </p>
-          
-        </div>
-      </div>
-    </footer>
-
+                <!--<div id="table-container"></div>-->
+            </div>
+        </main>
+        <footer class="row">
+            <div class="col">
+                <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+                <p>
+                <span style="float: right">Theme <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></span>
+                <span style="float: left">Last update: 2021-12-18</span>
+                </p>
+            </div>
+        </footer>
+    </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
     <!--
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -72,7 +63,7 @@
     <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
     <script type="text/javascript" src="js/csv_to_html_table.js"></script>
-
+    -->
 
     <script type="text/javascript">
       function format_link(link){
@@ -90,7 +81,7 @@
       }
 
       CsvToHtmlTable.init({
-        csv_path: '../data/all_work.csv',
+        csv_path: 'data/all_work.csv',
         element: 'table-container', 
         allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
@@ -98,6 +89,6 @@
         custom_formatting: [[0, format_author],[3, format_link]]
       });
     </script>
-    -->
-  </body>
+</body>
+
 </html>
