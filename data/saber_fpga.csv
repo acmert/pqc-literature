@@ -1,4 +1,4 @@
-Author,Year,Journal Conference,Link,Platform,Saber,Masking,Area (LUT/DFF/DSP/BRAM) mm^2,Freq.,PKE KeyGen,PKE Encrypt.,PKE Decrypt.,KEM KeyGen,KEM Encap.,KEM Decap.,,,,,,,Link
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Light,No,"19,100/9,300/4/24",200,-,-,-,29.6,40.4,58.3,,,,,,,
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Saber,No,"19,100/9,300/4/24",200,-,-,-,54.9,69.7,94.9,,,,,,,
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Fire,No,"19,100/9,300/4/24",200,-,-,-,87.6,108,139.4,,,,,,,
+Author,Year,Journal Conference,Link,Platform,Saber,Masking,Area (LUT/DFF/DSP/BRAM) mm^2,Freq.,PKE KeyGen,PKE Encrypt.,PKE Decrypt.,KEM KeyGen,KEM Encap.,KEM Decap.
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Light,No,"19,100/9,300/4/24",200,-,-,-,29.6,40.4,58.3
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Saber,No,"19,100/9,300/4/24",200,-,-,-,54.9,69.7,94.9
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Fire,No,"19,100/9,300/4/24",200,-,-,-,87.6,108,139.4
