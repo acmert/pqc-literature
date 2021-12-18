@@ -1,7 +1,19 @@
-Author,Year,Journal/ Conference,Link,Platform,Saber,Masking,LUTs,DFFs,DSPs,BRAMs,Frequency (MHz),PKE.Key (microsec),PKE.Enc (microsec),PKE.Dec (microsec),KEM.Key (microsec),KEM.Enc (microsec),KEM.Dec (microsec)
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Light,No,"19,100","9,300",4,24,200,-,-,-,29.6,40.4,58.3
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Saber,No,"19,100","9,300",4,24,200,-,-,-,54.9,69.7,94.9
-Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Fire,No,"19,100","9,300",4,24,200,-,-,-,87.6,108,139.4
-Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Light,No,"23,686","9,805",0,2,250,-,-,-,18.41,26.89,33.58
-Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Saber,No,"23,686","9,805",0,2,250,-,-,-,36.35,44.14,53.56
-Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Fire,No,"23,686","9,805",0,2,250,-,-,-,60.19,68.41,82.01
+Author,Year,Journal/ Conference,Link,Platform,Saber,Masking,LUTs,DFFs,DSPs,BRAMs,Freq. (MHz),KEM.Key (usec),KEM.Enc (usec),KEM.Dec (usec),PKE.Key (usec),PKE.Enc (usec),PKE.Dec (usec)
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Light,No,"19,100","9,300",4,24,200,29.6,40.4,58.3,-,-,-
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Saber,No,"19,100","9,300",4,24,200,54.9,69.7,94.9,-,-,-
+Aikata,2021,IACR ePrint,https://eprint.iacr.org/2021/1461,UltraScale+,Fire,No,"19,100","9,300",4,24,200,87.6,108,139.4,-,-,-
+Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Light,No,"23,686","9,805",0,2,250,18.41,26.89,33.58,-,-,-
+Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Saber,No,"23,686","9,805",0,2,250,36.35,44.14,53.56,-,-,-
+Roy,2020,CHES,https://tches.iacr.org/index.php/TCHES/article/view/8690/8249,UltraScale+,Fire,No,"23,686","9,805",0,2,250,60.19,68.41,82.01,-,-,-
+Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,UltraScale+,Light,No,"34,886","9,858",85,6,100,-,-,-,5.2,6.6,3.7
+Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,UltraScale+,Saber,No,"34,886","9,858",85,6,100,-,-,-,9.4,11.6,4
+Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,UltraScale+,Fire,No,"34,886","9,858",85,6,100,-,-,-,15.3,18.1,5
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Light,No,"8,634","6,697",0,3,250,407,540,675,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Saber,No,"8,634","6,697",0,3,250,606,805,"1,005",-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Fire,No,"8,634","6,697",0,3,250,804,"1,067","1,335",-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Light,No,"9,089","7,084",0,3,250,111,145,181,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Saber,No,"9,089","7,084",0,3,250,160,212,265,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Fire,No,"9,089","7,084",0,3,250,210,279,345,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Light,No,10.111,7.699,0,3,250,36,46,57,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Saber,No,10.111,7.699,0,3,250,49,63,79,-,-,-
+He,2021,NIST,https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/xie-compact-coprocessor-pqc2021.pdf,UltraScale+,Fire,No,10.111,7.699,0,3,250,62,80,100,-,-,-
