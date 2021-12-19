@@ -1,4 +1,4 @@
-Author,Year,Journal/ Conference,Link,Technology,Saber,Masking,Area (mm^2),Freq. (MHz),KEM.Key (cycles),KEM.Key (usec),"KEM.Key (power, mW)",KEM.Enc (cycles),KEM.Enc (usec),"KEM.Enc (power, mW)",KEM.Dec (cycles),KEM.Dec (usec),"KEM.Dec (power, mW)"
+Author,Year,Journal/ Conference,Link,Technology,Saber,Masking,Area (mm^2),Freq. (MHz),KEM.Key (cycles),KEM.Key (usec),KEM.Key (mW),KEM.Enc (cycles),KEM.Enc (usec),KEM.Enc (mW),KEM.Dec (cycles),KEM.Dec (usec),KEM.Dec (mW)
 Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,40nm,Light,No,0.38 mm^2,400,603,1.5,35.7,859,2.1,37.2,"1,075",2.7,33.8
 Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,40nm,Saber,No,0.38 mm^2,400,"1,066",2.7,39.2,"1,456",3.6,41.3,"1,701",4.3,35.3
 Zhu,2021,TCAS I,https://ieeexplore.ieee.org/abstract/document/9321216,40nm,Fire,No,0.38 mm^2,400,"1,716",4.3,44.8,"2,185",5.5,44,"2,478",6.2,42.1
